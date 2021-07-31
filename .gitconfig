@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Guillaume Bonnet
+	email = 7252481+GuillaumeBonnet@users.noreply.github.com
+[core]
+	editor = code --wait --new-window
