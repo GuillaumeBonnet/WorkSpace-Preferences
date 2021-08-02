@@ -2,10 +2,16 @@ _bootstrap.ps1_ has to be run as an administrator
 
 # Software list
 
+Check hashsums:
+
+    terminal> certutil -hashfile {drag file here} SHA256 or MD5
+
+Links:
+
 - [nvm windows](https://github.com/coreybutler/nvm-windows/releases)
 - [nodejs](https://nodejs.org/en/download/)
-- [git](https://git-scm.com/downloads)
 - [VSCode](https://code.visualstudio.com/Download)
+- [git](https://git-scm.com/downloads)
 - [AutoHotkey](https://www.autohotkey.com/download/)
 
 # VSCodes Extensions
@@ -17,3 +23,8 @@ _bootstrap.ps1_ has to be run as an administrator
 ## How to install them
 
 Run _install-extensions.ps1_ to install them
+
+# Problems and TODOs
+
+- powershell can't execute scipts by default
+- files need to be removed before links are created

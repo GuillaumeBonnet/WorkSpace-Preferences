@@ -1,4 +1,4 @@
-﻿#source https://github.com/pmb6tz/windows-desktop-switcher/
+﻿;source https://github.com/pmb6tz/windows-desktop-switcher/
 
 #SingleInstance Force ; The script will Reload if launched while already running
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases
