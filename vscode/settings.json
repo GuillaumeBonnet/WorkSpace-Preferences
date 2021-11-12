@@ -8,7 +8,7 @@
   "git.autoStash": true,
   "git.openDiffOnClick": false,
   "angularConsole.useNVM": false,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 0.5,
   "boot-java.change-detection.on": true,
   "boot-java.scan-java-test-sources.on": true,
   "java.debug.settings.enableRunDebugCodeLens": false,
@@ -55,7 +55,8 @@
   "tailwindCSS.experimental.classRegex": [],
   "tailwindCSS.includeLanguages": {
     "vue": "html",
-    "vue-html": "html"
+    "vue-html": "html",
+    "ejs": "html"
   },
   "workbench.editor.enablePreview": false,
   "peacock.favoriteColors": [
@@ -98,5 +99,7 @@
   ],
   "peacock.affectActivityBar": false,
   "peacock.affectTitleBar": false,
-  "security.workspace.trust.untrustedFiles": "open"
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.confirmSync": false,
+  "window.zoomLevel": 0.5
 }
