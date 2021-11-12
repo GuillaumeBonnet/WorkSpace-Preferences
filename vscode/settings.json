@@ -101,5 +101,6 @@
   "peacock.affectTitleBar": false,
   "security.workspace.trust.untrustedFiles": "open",
   "git.confirmSync": false,
-  "window.zoomLevel": 0.5
+  "window.zoomLevel": 0.5,
+  "git.autofetch": true
 }
