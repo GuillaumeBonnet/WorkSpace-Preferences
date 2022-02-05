@@ -18,5 +18,10 @@
     "prefix": "clone",
     "body": ["JSON.parse(JSON.stringify($1))$2"],
     "description": "Log clone to console"
+  },
+  "agular-localize": {
+    "prefix": "loc",
+    "body": ["\\$localize`$CLIPBOARD`"],
+    "description": "Wrap selected string with angular localized syntax in typescript files"
   }
 }
